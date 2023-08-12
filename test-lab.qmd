@@ -1,5 +1,5 @@
 ---
-title: "GitHub Test"
+title: "Lab Test Case"
 author: "Laura Edwards"
 format: html
 editor: visual
